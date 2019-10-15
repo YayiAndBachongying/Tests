@@ -1,0 +1,2 @@
+launage: c
+scripts: gcc test.c -o -test
