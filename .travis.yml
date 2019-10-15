@@ -1,2 +1,2 @@
-launage: c
+language: c
 scripts: gcc test.c -o -test
